@@ -1,5 +1,3 @@
-### Create and setup your Git
+### Create and setup :
 
-
-
-* Hello
+* Each of the directories contains there own README. 
