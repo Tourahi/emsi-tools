@@ -1,5 +1,6 @@
 ## 0x03. Git
 
+- Updated 
 #### Learning Objectives
 
 - What is source code management
